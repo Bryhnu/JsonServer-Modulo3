@@ -1,58 +1,158 @@
 {
-    "produtos": [
+    "Protetor Solar": [
 
       {
-       "id": 1,
-       "nome": "Protetor solar facial",
-       "descricao": "Possui textura ultraleve e sequinha que é rapidamente absorvida pela pele",
-       "tamanho": "40g",
-       "valor": "R$ 40,00"
+        "id": 1,
+        "nome": "Protetor Solar Corporal Sundown Praia e Piscina FPS 30",
+        "descricao": "O Sundown Praia e Piscina FPS 30 é um protetor solar que oferece tripla proteção, protegendo a pele contra os raios UVA+UVB, o cloro das piscinas e a água salgada do mar.",
+        "tamanho": "200ml",
+        "valor": "R$38,79"
       },
+
 
       {
         "id": 2,
-        "nome": "Hidr'atante facial",
-        "descricao": "o poder hidratante do ácido hialurônico com uma textura aqua ultra leve, refrescante e oil-free para fortalecer a barreira natural da pele e renovar seus níveis saudáveis de água.",
-        "tamanho": "100g",
-        "valor": "R$ 29,90"
-
+        "nome": "Protetor Solar Bioré Aqua Rich Watery Essence FPS 50",
+        "descricao": "Bioré Aqua Rich Watery Essence é um protetor solar que não pode faltar no seu dia a dia. Produzido com uma textura macia e revigorante, você protege a sua pele contra os raios solares sem deixar de aproveitar a vida com tranquilidade.",
+        "tamanho": "50g",
+        "valor": "R$60,59"
       },
+
 
       {
         "id": 3,
-        "nome": "Sabonete líquido",
-        "descricao": "O sabonete líquido regular 300ml ajuda a manter a pele do seu bebê sempre macia e hidratada", 
-        "tamanho": "300g",
-        "valor": "R$ 49,99"
-
+        "nome": "Protetor Solar Facial Needs Beauty Oil-Free FPS 70",
+        "descricao": "Needs Beauty Oil-Free FPS 70 é um filtro solar para o rosto que hidrata a pele enquanto oferece muita alta proteção contra os raios UVA e UVB, indicado principalmente para peles oleosas e sensíveis ao sol.",
+        "tamanho": "40g",
+        "valor": "R$30,90" 
       },
 
-      {
-        "id": 3,
-        "nome": "Protetor solar corporal fps 70",
-        "descricao": "O protetor solar corporal fps 70 garante proteção máxima contra os raios uva longos que penetram mais profundamente na pele",
-        "tamanho": "200ml",
-        "valor": "R$ 70,99"
-
-      },
 
       {
         "id": 4,
-        "nome": "Àgua micelar",
-        "descricao": "O poder preenchedor do Ácido Hialurônico, agora na sua rotina de limpeza facial",
-        "tamanho": "400ml",
-        "valor": "46,79"
+        "nome": "Protetor Solar Facial Isdin Fusion Water Oil Control FPS 60",
+        "descricao": "Fusion Water é um protetor solar facial da Isdin, com toque seco e alta proteção UV (FPS 60). Proteção facial diária para peles oleosas e com tendência à acne.",
+        "tamanho": "50ml",
+        "valor":  "R$84,90"
+      }
+    ],
 
+    "Hidratante": [
+       
+      {
+        "id": 5,
+        "nome": "Hidratante Facial Needs Face Vita C",
+        "descricao": "O Needs Vita C é um hidratante desenvolvido especialmente para hidratar, revitalizar e nutrir a pele do rosto.",
+        "tamanho": "50g",
+        "valor":  "R$27,99"
+      },
+
+      {
+        "id": 6,
+        "nome": "Loção Hidratante Corporal Nivea Milk Hidratação Profunda Pele Seca",
+        "descricao": "A Loção Nivea Milk Hidratação Profunda é um hidratante corporal capaz de hidratar profundamente peles secas e extrassecas por até 48 horas.",
+        "tamanho": "400ml",
+        "valor": "R$23,49" 
       },
 
 
       {
-        "id": 5,
-        "nome": "Hidratante labial",
-        "descricao": " Hidratante labial que oferece cuidado e proteção por 24h. Item indispensável para manter os lábios sempre macios a qualquer hora do dia",
-        "tamanho": "4,8g",
-        "valor": "R$ 16,99"
+        "id": 7,
+        "nome": "Loção Hidratante Corporal Dove Nutrição Essencial Suave",
+        "descricao": "Dove Nutrição Essencial é uma loção hidratante corporal indicada para todos os tipos de pele. É enriquecida com o exclusivo complexo de hidratação NutriDUO, que combina nutrientes naturais da pele com óleos naturais.",
+        "tamanho": "400ml",
+        "valor":  "R$17,69"
+      },
 
+
+      {
+        "id": 8,
+        "nome": "Loção Hidratante Corporal Fisiogel Terapia de Hidratação Diária",
+        "descricao": "A Loção Hidratante Fisiogel Terapia de Hidratação Diária pode ser aplicada no corpo todo e é indicada para peles secas e sensíveis, que podem estar sem elasticidade e ásperas, causando desconforto.",
+        "tamanho": "400ml",
+        "valor": "R$89,99" 
+      }
+    ],
+
+    "Limpeza para pele": [
+
+      {
+        "id": 9,
+        "nome": "Sabonete Líquido Facial Dermotivin Original Pele Mista e Oleosa",
+        "descricao": "Dermotivin Original é um sabonete líquido facial especialmente desenvolvido para peles mistas e oleosas. De forma suave ele higieniza e elimina o excesso de oleosidade, proporcionando hidratação e um aspecto saudável à delicada pele da face.",
+        "tamanho": "70ml",
+        "valor":  "R$25,19"
+      },
+
+
+      {
+        "id": 10,
+        "nome": "Água Micelar L'Oréal Paris Solução de Limpeza 5 em 1",
+        "descricao": "A Água Micelar da L’Oréal Paris é um limpador facial com múltiplos benefícios eficazes para a sua pele: limpa, demaquila, purifica, suaviza e reequilibra.",
+        "tamanho": "200ml",
+        "valor":  "R$32,99"
+      },
+
+
+      {
+        "id": 11,
+        "nome": "Demaquilante Bioré Make Up Remover",
+        "descricao": "Bioré Make Up Remover é um óleo demaquilante para remoção da maquiagem, que não deixa a pele oleosa ou pegajosa após o uso.",
+        "tamanho": "150ml",
+        "valor": "R$66,92" 
+      },
+
+
+
+      {
+        "id": 12,
+        "nome": "Sabonete Líquido Dermotivin Original Pele Mista a Oleosa",
+        "descricao": "O Gel de Limpeza Facial Needs Controle de Oleosidade é ideal para ser o primeiro passo da sua rotina de skincare.",
+        "tamanho": "60g",
+        "valor": "R$15,70"
+      }
+    ],
+
+
+    "Acne": [
+
+      {
+        "id": 13,
+        "nome": "Azelan 150mg/g Gel",
+        "descricao": "Azelan é um medicamento na forma de gel, que contém Ácido Azelaico como princípio ativo de origem natural. Possui tripla ação: trata a acne, controla-a a longo prazo e ajuda a renovar a saúde da pele.",
+        "tamanho": "30g",
+        "valor":  "R$84,49"
+      },
+
+
+      {
+        "id": 14,
+        "nome": "Minancora Pomada",
+        "descricao": " Pomada Minancora é um cicatrizante, antisséptico e adstringente para tratar e prevenir doenças da pele como espinhas, frieiras, escaras e como coadjuvante no tratamento de picadas de insetos, urticárias e pequenos ferimentos superficiais.",
+        "tamanho": "30g",
+        "valor": "R$14,89" 
+      },
+
+
+      {
+        "id": 15,
+        "nome": "Tônico Facial Adstringente Needs Pele Oleosa e Acneica",
+        "descricao": "Uma Loção Adstringente desenvolvida para peles oleosas ou acneicas, que tonifica a pele do rosto.",
+        "tamanho": "210ml",
+        "valor": "R$22,99" 
+      },
+
+
+
+      {
+        "id": 16,
+        "nome": "Sabonete Facial em Barra Asepxia Esfoliante Antiacne",
+        "descricao": "Asepxia Esfoliante é um sabonete antiacne em barra, que elimina a oleosidade, desobstrui os poros, diminui o aparecimento de cravos e espinhas, além de deixar uma pele limpa e com aparência uniforme.",
+        "tamanho": "80g",
+        "valor": "R$8,85" 
       }
     ]
+
+
   }
+
